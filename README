@@ -1,6 +1,6 @@
-************
-* Zork.git *
-************
+================
+=   Zork.git   =
+================
 
 Using git to play the classic interactive fiction game Zork
 
@@ -10,10 +10,10 @@ Using git to play the classic interactive fiction game Zork
 Quick start:
 
 1. Edit this README file, adding the desired game command after
-  the `>` on the last line.
+     the `>` on the last line.
 2. Submit a PR with this change against the main repo.
 3. A bot automatically processes the PR, merges in the change, and
-  updates the game state and outputs the result back into this README.
+     updates the game state and outputs the result back into this README.
 
 
 
